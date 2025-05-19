@@ -4,6 +4,7 @@ import Input from "./input";
 function Login(){
     return (
         <form className="form">
+            <h1>Hello</h1>
         <input
             type = "text"
             placeholder = "username"
